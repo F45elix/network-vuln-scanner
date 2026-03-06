@@ -18,7 +18,7 @@ A high-performance async TCP port scanner with CVE correlation, CVSS v3.1 risk s
 
 ## 📋 Why This Project
 
-Key skills from Australian/UK visa-sponsored pentesting roles:
+ pentesting roles:
 
 | Skill | Implementation |
 |---|---|
